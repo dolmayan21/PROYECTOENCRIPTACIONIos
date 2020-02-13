@@ -1,6 +1,6 @@
-//
+﻿//
 //  String+extension.swift
-//  Perfect Paper Passwords
+//  KeyGen
 //
 //  Created by Alejandro Leon Del Villar on 09/02/20.
 //  Copyright © 2020 Alejandro Leon Del Villar. All rights reserved.
